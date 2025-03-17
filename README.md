@@ -2,9 +2,9 @@
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me totuaze2010@gmail.com
+- 📫 How to reach me offical.ismayil@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Playing football
+- ⚡ Fun fact: Coding
 
 <!---
 Ismayil-JR/Ismayil-JR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
